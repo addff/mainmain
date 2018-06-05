@@ -3,7 +3,7 @@
 
 int main()
 {
-//	printf("ini aku punya");
+	printf("ini aku punya");
 
 	return 0;
 }
