@@ -3,6 +3,7 @@
 
 int main()
 {
-//letaklah coding sini
+	printf("ini aku punya")
+
 	return 0;
 }
