@@ -3,8 +3,7 @@
 
 int main()
 {
-	#apa la semicolon pun lupa
-	printf("ini aku punya")
+	printf("ini aku punya");
 
 	return 0;
 }
